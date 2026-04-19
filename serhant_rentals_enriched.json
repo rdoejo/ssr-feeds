@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T05:11:21.301Z",
+    "generatedAt": "2026-04-19T06:11:23.712Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
     "totalListings": 326
@@ -16463,15 +16463,6 @@
           "endDate": "2027-12-31",
           "fee": 210000,
           "durationDays": 364,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13130454",
-          "rentPeriod": "Extended Season",
-          "startDate": "2026-04-04",
-          "endDate": "2026-04-18",
-          "fee": 20000,
-          "durationDays": 14,
           "durationWarning": false
         }
       ]
