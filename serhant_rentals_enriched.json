@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-04-20T12:11:27.119Z",
+    "generatedAt": "2026-04-20T13:11:27.067Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
-    "totalListings": 326
+    "totalListings": 327
   },
   "listings": [
     {
@@ -16844,6 +16844,57 @@
           "endDate": "2026-10-31",
           "fee": 18000,
           "durationDays": 30,
+          "durationWarning": false
+        }
+      ]
+    },
+    {
+      "listingId": "931643",
+      "mlsId": "",
+      "address": "18 PARK CIR",
+      "city": "Quogue",
+      "state": "NY",
+      "zip": "11959",
+      "beds": 4,
+      "fullBaths": 2,
+      "halfBaths": 1,
+      "propertyType": "Residential",
+      "status": "Active",
+      "rentalPeriods": [
+        {
+          "rentId": "13131657",
+          "rentPeriod": "Two Weeks",
+          "startDate": "2026-08-24",
+          "endDate": "2026-09-07",
+          "fee": 20000,
+          "durationDays": 14,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13131658",
+          "rentPeriod": "Sept",
+          "startDate": "2026-09-01",
+          "endDate": "2026-09-30",
+          "fee": 7000,
+          "durationDays": 29,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13131659",
+          "rentPeriod": "Oct",
+          "startDate": "2026-10-01",
+          "endDate": "2026-10-31",
+          "fee": 7000,
+          "durationDays": 30,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13131660",
+          "rentPeriod": "Nov",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-30",
+          "fee": 7000,
+          "durationDays": 29,
           "durationWarning": false
         }
       ]
