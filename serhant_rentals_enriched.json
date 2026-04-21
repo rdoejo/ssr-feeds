@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-21T15:11:27.362Z",
+    "generatedAt": "2026-04-21T16:11:29.489Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
     "totalListings": 327
@@ -13614,7 +13614,7 @@
           "rentPeriod": "July",
           "startDate": "2026-07-01",
           "endDate": "2026-07-31",
-          "fee": 150000,
+          "fee": 125000,
           "durationDays": 30,
           "durationWarning": false
         },
