@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T20:11:24.260Z",
+    "generatedAt": "2026-04-22T21:11:30.268Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
     "totalListings": 327
@@ -1782,7 +1782,7 @@
           "rentPeriod": "July/August-LD",
           "startDate": "2026-07-01",
           "endDate": "2026-09-07",
-          "fee": 110000,
+          "fee": 135000,
           "durationDays": 68,
           "durationWarning": false
         },
@@ -1791,7 +1791,7 @@
           "rentPeriod": "July",
           "startDate": "2026-07-01",
           "endDate": "2026-07-31",
-          "fee": 45000,
+          "fee": 60000,
           "durationDays": 30,
           "durationWarning": false
         },
@@ -1800,7 +1800,7 @@
           "rentPeriod": "June",
           "startDate": "2026-06-01",
           "endDate": "2026-06-30",
-          "fee": 15000,
+          "fee": 35000,
           "durationDays": 29,
           "durationWarning": false
         },
@@ -1809,7 +1809,7 @@
           "rentPeriod": "June/July",
           "startDate": "2026-06-01",
           "endDate": "2026-07-31",
-          "fee": 70000,
+          "fee": 95000,
           "durationDays": 60,
           "durationWarning": false
         },
@@ -1818,8 +1818,17 @@
           "rentPeriod": "MD-LD",
           "startDate": "2026-05-22",
           "endDate": "2026-09-07",
-          "fee": 150000,
+          "fee": 165000,
           "durationDays": 108,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132117",
+          "rentPeriod": "August-LD",
+          "startDate": "2026-08-01",
+          "endDate": "2026-09-07",
+          "fee": 75000,
+          "durationDays": 37,
           "durationWarning": false
         }
       ]
@@ -11623,10 +11632,19 @@
         {
           "rentId": "13109832",
           "rentPeriod": "Short-Term",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 150000,
-          "durationDays": 29,
+          "startDate": "2026-06-14",
+          "endDate": "2026-06-26",
+          "fee": 100000,
+          "durationDays": 12,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132116",
+          "rentPeriod": "June",
+          "startDate": "2026-06-15",
+          "endDate": "2026-06-26",
+          "fee": 100000,
+          "durationDays": 11,
           "durationWarning": false
         }
       ]
@@ -13805,75 +13823,12 @@
       "status": "Active",
       "rentalPeriods": [
         {
-          "rentId": "13118249",
-          "rentPeriod": "June",
-          "startDate": "2026-06-01",
-          "endDate": "2026-06-30",
-          "fee": 100000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13118250",
-          "rentPeriod": "July",
-          "startDate": "2026-07-01",
-          "endDate": "2026-07-31",
-          "fee": 60000,
-          "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13118251",
-          "rentPeriod": "August",
-          "startDate": "2026-08-01",
-          "endDate": "2026-08-31",
-          "fee": 60000,
-          "durationDays": 30,
-          "durationWarning": false
-        },
-        {
           "rentId": "13118252",
           "rentPeriod": "Extended Season",
           "startDate": "2026-09-08",
           "endDate": "2027-05-26",
           "fee": 35000,
           "durationDays": 260,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13118253",
-          "rentPeriod": "MD-LD",
-          "startDate": "2026-05-22",
-          "endDate": "2026-09-07",
-          "fee": 185000,
-          "durationDays": 108,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13118254",
-          "rentPeriod": "July/August-LD",
-          "startDate": "2026-07-01",
-          "endDate": "2026-09-07",
-          "fee": 120000,
-          "durationDays": 68,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13118255",
-          "rentPeriod": "August-LD",
-          "startDate": "2026-08-01",
-          "endDate": "2026-09-07",
-          "fee": 70000,
-          "durationDays": 37,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13118256",
-          "rentPeriod": "Year Round",
-          "startDate": "2026-01-01",
-          "endDate": "2026-12-31",
-          "fee": 360000,
-          "durationDays": 364,
           "durationWarning": false
         }
       ]
