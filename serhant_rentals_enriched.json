@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T18:00:24.317Z",
+    "generatedAt": "2026-04-23T19:00:24.112Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
     "totalListings": 327
@@ -10739,8 +10739,8 @@
       "state": "NY",
       "zip": "11968",
       "beds": 3,
-      "fullBaths": 2,
-      "halfBaths": 0,
+      "fullBaths": 3,
+      "halfBaths": 1,
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
