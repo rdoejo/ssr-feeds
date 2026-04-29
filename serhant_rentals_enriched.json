@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-04-29T19:00:32.759Z",
+    "generatedAt": "2026-04-29T20:00:34.091Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
-    "totalListings": 328
+    "totalListings": 329
   },
   "listings": [
     {
@@ -16874,6 +16874,39 @@
           "endDate": "2026-09-30",
           "fee": 8000,
           "durationDays": 29,
+          "durationWarning": false
+        }
+      ]
+    },
+    {
+      "listingId": "931973",
+      "mlsId": "",
+      "address": "15 Maidstone Ave",
+      "city": "East Hampton",
+      "state": "NY",
+      "zip": "11937",
+      "beds": 2,
+      "fullBaths": 1,
+      "halfBaths": 0,
+      "propertyType": "Residential",
+      "status": "Active",
+      "rentalPeriods": [
+        {
+          "rentId": "13132812",
+          "rentPeriod": "July/August-LD",
+          "startDate": "2026-07-01",
+          "endDate": "2026-09-07",
+          "fee": 45000,
+          "durationDays": 68,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132813",
+          "rentPeriod": "MD-LD",
+          "startDate": "2026-05-22",
+          "endDate": "2026-09-07",
+          "fee": 55000,
+          "durationDays": 108,
           "durationWarning": false
         }
       ]
