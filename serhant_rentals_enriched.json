@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-04-29T13:00:32.923Z",
+    "generatedAt": "2026-04-29T14:00:33.058Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
-    "totalListings": 327
+    "totalListings": 328
   },
   "listings": [
     {
@@ -16804,6 +16804,75 @@
           "startDate": "2026-11-01",
           "endDate": "2026-11-30",
           "fee": 7000,
+          "durationDays": 29,
+          "durationWarning": false
+        }
+      ]
+    },
+    {
+      "listingId": "931944",
+      "mlsId": "",
+      "address": "6 Lincoln Ave",
+      "city": "East Hampton",
+      "state": "NY",
+      "zip": "11937",
+      "beds": 3,
+      "fullBaths": 2,
+      "halfBaths": 0,
+      "propertyType": "Residential",
+      "status": "Active",
+      "rentalPeriods": [
+        {
+          "rentId": "13132726",
+          "rentPeriod": "MD-LD",
+          "startDate": "2026-05-22",
+          "endDate": "2026-09-07",
+          "fee": 38000,
+          "durationDays": 108,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132727",
+          "rentPeriod": "June",
+          "startDate": "2026-06-01",
+          "endDate": "2026-06-30",
+          "fee": 8000,
+          "durationDays": 29,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132728",
+          "rentPeriod": "July/August-LD",
+          "startDate": "2026-07-01",
+          "endDate": "2026-09-07",
+          "fee": 30000,
+          "durationDays": 68,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132729",
+          "rentPeriod": "July",
+          "startDate": "2026-07-01",
+          "endDate": "2026-07-31",
+          "fee": 17000,
+          "durationDays": 30,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132730",
+          "rentPeriod": "August-LD",
+          "startDate": "2026-08-01",
+          "endDate": "2026-09-07",
+          "fee": 17000,
+          "durationDays": 37,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132731",
+          "rentPeriod": "Sept",
+          "startDate": "2026-09-01",
+          "endDate": "2026-09-30",
+          "fee": 8000,
           "durationDays": 29,
           "durationWarning": false
         }
