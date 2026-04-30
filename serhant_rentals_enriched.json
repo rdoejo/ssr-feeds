@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-04-30T21:00:33.234Z",
+    "generatedAt": "2026-04-30T22:00:33.006Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
-    "totalListings": 329
+    "totalListings": 330
   },
   "listings": [
     {
@@ -16721,6 +16721,66 @@
           "endDate": "2026-09-07",
           "fee": 45000,
           "durationDays": 37,
+          "durationWarning": false
+        }
+      ]
+    },
+    {
+      "listingId": "931393",
+      "mlsId": "",
+      "address": "7 Whiting Road",
+      "city": "East Quogue",
+      "state": "NY",
+      "zip": "11942",
+      "beds": 2,
+      "fullBaths": 1,
+      "halfBaths": 0,
+      "propertyType": "House (Detached)",
+      "status": "Active",
+      "rentalPeriods": [
+        {
+          "rentId": "13132923",
+          "rentPeriod": "August",
+          "startDate": "2026-08-01",
+          "endDate": "2026-08-31",
+          "fee": 15000,
+          "durationDays": 30,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132924",
+          "rentPeriod": "July",
+          "startDate": "2026-07-01",
+          "endDate": "2026-07-31",
+          "fee": 15000,
+          "durationDays": 30,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132925",
+          "rentPeriod": "June",
+          "startDate": "2026-06-01",
+          "endDate": "2026-06-30",
+          "fee": 13000,
+          "durationDays": 29,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132926",
+          "rentPeriod": "May",
+          "startDate": "2026-05-01",
+          "endDate": "2026-05-31",
+          "fee": 13000,
+          "durationDays": 30,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132927",
+          "rentPeriod": "MD-LD",
+          "startDate": "2026-05-22",
+          "endDate": "2026-09-07",
+          "fee": 40000,
+          "durationDays": 108,
           "durationWarning": false
         }
       ]
