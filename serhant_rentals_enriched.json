@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-30T15:00:33.080Z",
+    "generatedAt": "2026-04-30T16:00:34.722Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
     "totalListings": 329
@@ -1025,6 +1025,15 @@
       "status": "Active",
       "rentalPeriods": [
         {
+          "rentId": "13087072",
+          "rentPeriod": "August-LD",
+          "startDate": "2026-08-25",
+          "endDate": "2026-09-01",
+          "fee": 175000,
+          "durationDays": 7,
+          "durationWarning": false
+        },
+        {
           "rentId": "13087074",
           "rentPeriod": "June",
           "startDate": "2026-06-01",
@@ -1040,6 +1049,15 @@
           "endDate": "2026-06-22",
           "fee": 200000,
           "durationDays": 8,
+          "durationWarning": false
+        },
+        {
+          "rentId": "13132858",
+          "rentPeriod": "Sept",
+          "startDate": "2026-09-01",
+          "endDate": "2026-09-30",
+          "fee": 300000,
+          "durationDays": 29,
           "durationWarning": false
         }
       ]
