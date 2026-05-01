@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-05-01T04:00:34.446Z",
+    "generatedAt": "2026-05-01T07:00:34.552Z",
     "source": "rets.eastendli.com",
     "account": "Serhant BLS (sh-214769)",
-    "totalListings": 330
+    "totalListings": 329
   },
   "listings": [
     {
@@ -999,15 +999,6 @@
           "fee": 35000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13115456",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 25000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -1160,15 +1151,6 @@
           "endDate": "2026-05-31",
           "fee": 7500,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13109682",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7500,
-          "durationDays": 29,
           "durationWarning": false
         }
       ]
@@ -1391,15 +1373,6 @@
           "endDate": "2026-05-31",
           "fee": 5000,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13105530",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 5000,
-          "durationDays": 29,
           "durationWarning": false
         },
         {
@@ -1925,15 +1898,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13109687",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13109688",
           "rentPeriod": "August",
           "startDate": "2026-08-01",
@@ -2219,15 +2183,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13110001",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13110005",
           "rentPeriod": "August",
           "startDate": "2026-08-01",
@@ -2313,15 +2268,6 @@
           "fee": 35000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13112438",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 5000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -2398,15 +2344,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13107045",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13107046",
           "rentPeriod": "May",
@@ -3176,15 +3113,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13110031",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 10000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13110032",
           "rentPeriod": "August",
           "startDate": "2026-08-01",
@@ -3396,15 +3324,6 @@
           "fee": 10000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13111865",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 5000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -3539,15 +3458,6 @@
           "endDate": "2026-05-31",
           "fee": 5500,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13110044",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 3500,
-          "durationDays": 29,
           "durationWarning": false
         }
       ]
@@ -4470,15 +4380,6 @@
           "fee": 5000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13099037",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 5000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -4495,15 +4396,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13018192",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 6000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13018193",
           "rentPeriod": "May",
@@ -6250,30 +6142,6 @@
       ]
     },
     {
-      "listingId": "912760",
-      "mlsId": "",
-      "address": "48 SANDRA RD",
-      "city": "East Hampton",
-      "state": "NY",
-      "zip": "11937",
-      "beds": 3,
-      "fullBaths": 2,
-      "halfBaths": 0,
-      "propertyType": "House (Detached)",
-      "status": "Active",
-      "rentalPeriods": [
-        {
-          "rentId": "13118115",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 3350,
-          "durationDays": 29,
-          "durationWarning": false
-        }
-      ]
-    },
-    {
       "listingId": "912800",
       "mlsId": "",
       "address": "71 ISLAND VIEW DR W",
@@ -6675,15 +6543,6 @@
           "fee": 25000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13110052",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -6716,15 +6575,6 @@
           "endDate": "2026-05-31",
           "fee": 22000,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13109564",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 6500,
-          "durationDays": 29,
           "durationWarning": false
         },
         {
@@ -6980,15 +6830,6 @@
           "endDate": "2026-05-31",
           "fee": 55000,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13110670",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 40000,
-          "durationDays": 29,
           "durationWarning": false
         },
         {
@@ -7287,15 +7128,6 @@
           "fee": 10000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13110728",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -7337,15 +7169,6 @@
           "endDate": "2026-05-31",
           "fee": 10000,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13111014",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7000,
-          "durationDays": 29,
           "durationWarning": false
         },
         {
@@ -7450,15 +7273,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13064366",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13064367",
           "rentPeriod": "May",
@@ -9759,15 +9573,6 @@
           "fee": 4000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13111366",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 4000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -10094,15 +9899,6 @@
           "endDate": "2026-05-31",
           "fee": 4750,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13107794",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 4750,
-          "durationDays": 29,
           "durationWarning": false
         }
       ]
@@ -10833,15 +10629,6 @@
           "fee": 13000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13109976",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 12500,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -11058,15 +10845,6 @@
           "fee": 500000,
           "durationDays": 365,
           "durationWarning": false
-        },
-        {
-          "rentId": "13091645",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 30000,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -11249,15 +11027,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13105735",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13105741",
           "rentPeriod": "Dec",
           "startDate": "2026-12-01",
@@ -11315,15 +11084,6 @@
           "endDate": "2026-05-31",
           "fee": 15000,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13097854",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
           "durationWarning": false
         },
         {
@@ -11432,15 +11192,6 @@
           "endDate": "2026-05-31",
           "fee": 10000,
           "durationDays": 30,
-          "durationWarning": false
-        },
-        {
-          "rentId": "13099454",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 10000,
-          "durationDays": 29,
           "durationWarning": false
         },
         {
@@ -11680,15 +11431,6 @@
       "propertyType": "House (Detached)",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13106223",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 55000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13106224",
           "rentPeriod": "May",
@@ -11933,15 +11675,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13109028",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13109029",
           "rentPeriod": "May",
           "startDate": "2026-05-01",
@@ -12136,15 +11869,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13109654",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 7500,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13109655",
           "rentPeriod": "May",
@@ -12344,15 +12068,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13111970",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13111971",
           "rentPeriod": "May",
           "startDate": "2026-05-01",
@@ -12394,15 +12109,6 @@
       "propertyType": "House (Detached)",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13111418",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 12500,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13111419",
           "rentPeriod": "May",
@@ -13575,15 +13281,6 @@
           "fee": 10000,
           "durationDays": 30,
           "durationWarning": false
-        },
-        {
-          "rentId": "13116385",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 8500,
-          "durationDays": 29,
-          "durationWarning": false
         }
       ]
     },
@@ -13688,15 +13385,6 @@
           "durationWarning": false
         },
         {
-          "rentId": "13116444",
-          "rentPeriod": "Extended Season",
-          "startDate": "2025-10-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 211,
-          "durationWarning": false
-        },
-        {
           "rentId": "13116445",
           "rentPeriod": "Year Round",
           "startDate": "2026-01-01",
@@ -13744,15 +13432,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13117596",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 15000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13117597",
           "rentPeriod": "May",
@@ -14156,15 +13835,6 @@
       "status": "Active",
       "rentalPeriods": [
         {
-          "rentId": "13120927",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 5000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
-        {
           "rentId": "13120928",
           "rentPeriod": "June/July",
           "startDate": "2026-06-01",
@@ -14215,15 +13885,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13120937",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 10000,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13120938",
           "rentPeriod": "May",
@@ -14569,15 +14230,6 @@
       "propertyType": "Residential",
       "status": "Active",
       "rentalPeriods": [
-        {
-          "rentId": "13121816",
-          "rentPeriod": "April",
-          "startDate": "2026-04-01",
-          "endDate": "2026-04-30",
-          "fee": 4500,
-          "durationDays": 29,
-          "durationWarning": false
-        },
         {
           "rentId": "13121817",
           "rentPeriod": "May",
